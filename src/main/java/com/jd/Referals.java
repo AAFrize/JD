@@ -1,4 +1,4 @@
-package main.java.com.jd;
+package com.jd;
 
 public abstract class Referals
 {

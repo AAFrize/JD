@@ -6,7 +6,7 @@
 
   <groupId>org.aafrize</groupId>
   <artifactId>jadedynasty</artifactId>
-  <version>v1</version>
+  <version>v2</version>
 
   <name>jadedynasty</name>
   <!-- FIXME change it to the project's website -->
@@ -55,7 +55,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>main.java.com.jd.GUI</mainClass>
+                <mainClass>com.jd.GUI</mainClass>
               </manifest>
             </archive>
           </configuration>

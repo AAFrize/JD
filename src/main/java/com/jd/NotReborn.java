@@ -1,4 +1,4 @@
-package main.java.com.jd;
+package com.jd;
 
 public class NotReborn extends Referals {
     public float bSh(int level) {
